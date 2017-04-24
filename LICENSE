@@ -1,0 +1,14 @@
+This code is an adaptation of the Mersenne Twister implementation 
+by Makoto Matsumoto and Tajuji Nishimura, previously adapted by 
+Yasuharu Okada.
+
+I place the adaptation in the public domain; I disclaim any and all 
+exclusive, special, or incidental rights to it, and you can do with 
+it as you want. I also disclaim any liability, and do not warrant 
+the code for any usage.
+
+If your country or legal department does not allow disclaiming all 
+liability for public domain sources, you may not accept usage of 
+this code.
+
+Jon Watte 2017-04-24

@@ -6,6 +6,7 @@
   "description":"A node.js module for generating high-quality Mersenne Twister random numbers.",
   "keywords": ["random", "mersenne", "twister", "number", "generator"],
   "homepage": "http://www.enchantedage.com/node-mersenne",
+  "license": "Public Domain",
   "directories": {
     "lib": "lib"
   },
